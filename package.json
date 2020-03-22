@@ -1,0 +1,24 @@
+{
+  "name": "node_jshomework",
+  "version": "1.0.0",
+  "description": "Create a command-line application that dynamically generates a PDF profile from a GitHub username. The application will be invoked with the following command:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shamlin143/NODE_JSHOMEWORK.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shamlin143/NODE_JSHOMEWORK/issues"
+  },
+  "homepage": "https://github.com/shamlin143/NODE_JSHOMEWORK#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "fs": "0.0.1-security",
+    "inquirer": "^7.1.0"
+  }
+}
