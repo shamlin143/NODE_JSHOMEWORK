@@ -17,8 +17,12 @@
   },
   "homepage": "https://github.com/shamlin143/NODE_JSHOMEWORK#readme",
   "dependencies": {
+    "acorn": "^7.1.1",
     "axios": "^0.19.2",
     "fs": "0.0.1-security",
-    "inquirer": "^7.1.0"
+    "html-pdf": "^2.2.0",
+    "init": "^0.1.2",
+    "inquirer": "^7.1.0",
+    "pdf": "^0.1.0"
   }
 }
