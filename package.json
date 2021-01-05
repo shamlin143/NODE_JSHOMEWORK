@@ -18,7 +18,7 @@
   "homepage": "https://github.com/shamlin143/NODE_JSHOMEWORK#readme",
   "dependencies": {
     "acorn": "^7.1.1",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "fs": "0.0.1-security",
     "html-pdf": "^2.2.0",
     "init": "^0.1.2",
